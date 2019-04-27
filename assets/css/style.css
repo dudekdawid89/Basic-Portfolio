@@ -1,7 +1,172 @@
 * {
-    box-sizing: border-box;
-  }
-  
-body{
-    background-image: url("/Basic-Portfolio/assets/images/dark_embroidery.png")
+  box-sizing: border-box;
 }
+
+.container { 
+  width: 960px; 
+  margin: 0 auto;
+  background-color: white;
+
+  
+}
+
+#index-image{
+  width:200px;
+  height:200px;
+  float:left;
+
+}
+
+  body{
+    background-image: url("/Basic-Portfolio/assets/images/dark_embroidery.png");
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    
+  }
+
+.menu{
+  float: right;
+  list-style-type: none;
+}
+
+.menu li{
+  display: inline-block;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 20px;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 18px;
+
+}
+.head{
+  width: 200px;
+  height: auto;
+  float:left;
+  
+  
+}
+
+.clearfix{
+  clear: both;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* 
+
+  h2{
+    background-color:blue;
+    float: left;
+    margin-left: 250px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: right;
+    
+  }
+  /* .clearfix{
+    clear:both;
+  } */
+  
+  /*  */
+  
+  
+/* 
+    background-color: white; */
+  
+  
+  
+/* li a:hover {
+    background-color: #111;
+    color: white;
+  }
+body{
+    background-image: url("/Basic-Portfolio/assets/images/dark_embroidery.png");
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 100%; */
+
+
+/* 
+  padding-bottom: 475px;  */
+
+/* 
+.head{
+  float:
+}
+
+}
+
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+header {
+  background-color: whitesmoke;
+  padding: 20px;
+
+/*     */
+/* }
+#one-selection{
+  width:70%;
+
+}
+#two-selection{
+  width: 30%;
+  background-color: burlywood; */
+
+
+/* #one-selection,
+#two-selection,
+#index-image {
+  float: left;
+/* 
+} */
+
+
+
+
+/* li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px 16px;
+  text-decoration: none;
+  float: right */
+
+/* footer{
+  background-color:black;
+  padding: 10px;
+  text-align: center;
+  color: white;
+} 

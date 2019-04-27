@@ -30,7 +30,7 @@
 }
 
 .menu li{
-  display: inline-block;
+  display: inline;
 }
 
 .menu li a {
@@ -45,6 +45,7 @@
   width: 200px;
   height: auto;
   float:left;
+  
   
   
 }
@@ -64,7 +65,10 @@ footer{
 }
 
 
-
+h2{
+  background-color: #666666;
+  padding: 10px 40px;
+}
 
 
 

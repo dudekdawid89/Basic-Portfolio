@@ -39,11 +39,11 @@ body{
 }
 .section-index{
   height: 600px;
-  padding: 20px;
+  padding: 30px;
 }
 section{
     height: 680px;
-    padding: 20px;  
+    padding: 30px;  
 }
 #middle{
   position: relative;
@@ -69,7 +69,7 @@ section{
 padding-right: 15px;
 padding-top: 15px;
 line-height: 25px;
-color:#4aaaa5;
+color:#777777;
 }
 .text2{
   padding-left: 15px;
@@ -124,7 +124,7 @@ header{
   line-height: 30px;
 }
 .section-contact{
-  padding: 20px;
+  padding: 30px;
   color:#4aaaa5;
   color:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -174,16 +174,17 @@ header{
 .portfolio-images{
   position: relative;
   padding-top:5px;
-  color:black;
+  color:white;
   width: 250px;
-  height: 200px;
+  height: 180px;
+  font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 
 #center-sign{
   position: absolute;
   bottom: 70px;
-  background-color: blue;
+  background-color: #4aaaa5; ;
   width:210px;
   height:30px;
   padding-top:5px;
